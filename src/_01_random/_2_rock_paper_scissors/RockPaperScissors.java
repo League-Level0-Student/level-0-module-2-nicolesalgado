@@ -69,6 +69,7 @@ public class RockPaperScissors extends JPanel implements ActionListener{
     
     public static void main(String[] args) {
         new RockPaperScissors().run();
+        int
     }
 
     @Override
